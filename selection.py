@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 def tri_selection(tab):
     for i in range(len(tab)):
         min = i
